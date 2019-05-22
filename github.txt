@@ -1,0 +1,8 @@
+$ git status
+$ git add --all
+$ git commit -m "anything you want to write”
+$ git remote add origin https://www.github.com/keshav15908/codechef.git
+$ git push -u origin master
+
+when àsked for username: keshav15908
+password: Keshu@15908
